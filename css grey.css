@@ -1,0 +1,7 @@
+h1 {text-align: center;color: white ; font-size: 45px}
+h2 {text-align: center;color: white ; font-size : 40px;}
+h3 {text-align: center;color: white ; font-size: 35px }
+h4 {text-align: center;color: white ; font-size: 35px }
+img {border-radius: 50% }
+p {color: white; text-align: center;font-size: 35px ;  background-color: rgba(0,0,0,0.9)}
+body {background-image: url('hai.jpeg.jpg');background-attachment: fixed; background-size: cover;}
